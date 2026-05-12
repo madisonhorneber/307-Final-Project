@@ -1,0 +1,83 @@
+body {background-color: #BDDBC2;}
+
+/* ChatGPT helped me figure out how to edit each
+part of the NAVBAR*/
+
+.navbar {background-color: #0E240E !important;}
+
+
+.navbar-brand {font-family: Georgia, serif;
+  color: gold !important;
+  font-size: 20px;}
+
+.nav-link {font-family: Arial, sans-serif;
+  color: white !important;
+  font-size: 14px;}
+
+
+.nav-link:hover {color: #BDDBC2 !important;}
+
+.dropdown-item {font-family: Verdana, sans-serif;
+  color: #0E240E;}
+
+.dropdown-item:hover {background-color: #BDDBC2;
+  color: #0E240E;}
+
+.card-title {color: darkgreen;}
+
+p {font-family: "Arial", sans-serif;
+            font-size: 16px;
+            color: #0E240E;}
+
+h1 {font-family: "Georgia", serif;
+            font-size: 40px;
+            font-weight: bold;
+            color: #0E240E;}
+
+h2 {font-family: "Georgia", serif;
+            font-size: 30px;
+            color: #0E240E;}
+
+h3 {font-family: "Georgia", serif;
+            font-size: 18px;
+            font-weight: bold;
+            font-style: italic;}
+
+label {font-family: "Arial", sans-serif;
+            font-size: 16px;
+            color: #0E240E;;}
+
+footer {background-color: #0E240E;
+      height: 60px;}
+
+.accordion {margin-bottom: 20px;}
+
+
+.container {margin-bottom: 15px; 
+            margin-top: 15px}
+
+/* Open accordion button */
+.accordion-button:not(.collapsed) {
+    background-color: gold;
+    font-family: Georgia, serif;
+    color: #0E240E !important;}
+
+.accordion-header { font-family: Georgia, serif;
+       color: #0E240E !important;}
+
+       .accordion-item { font-family: Georgia, serif;
+       color: #0E240E !important;}
+
+.accordion-body { font-family: Arial, serif;
+       color: #0E240E !important;}
+
+      .list-group-item { font-family: Arial, serif;
+       color: #0E240E !important;}
+
+            
+
+
+
+
+
+
