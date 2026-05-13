@@ -1,7 +1,9 @@
 body {background-color: #BDDBC2;}
 
-/* ChatGPT helped me figure out how to edit each
-part of the NAVBAR*/
+/* AI Use Disclosure:
+Tool(s): ChatGPT (free version)
+Purpose: Helped explain how to edit and format the code for each element of the Navbar.
+Human Role: I chnaged the font, colors, etc of the Navbar myself.*/
 
 .navbar {background-color: #0E240E !important;}
 
